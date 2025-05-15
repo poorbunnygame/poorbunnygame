@@ -4,9 +4,10 @@
 
 The mechanics of Poor Bunny are quite basic, but it would take a long time to fully understand them. Like other difficult platformers, this extensive journey has its own controls, game modes, and regulations that call for deft maneuvers.
 
-## How to play the Poor Bunny game
+## How to play Poor Bunny
 
-Click <a href="https://poorbunnygame.github.io/">https://poorbunnygame.github.io/</a> to begin the game
+Go to <a href="https://poorbunnygame.github.io/">https://poorbunnygame.github.io/</a> to begin the game.
+
 Once you're in the in-game forest, you must exercise utmost caution. A yearning rush turns you into a cuddly rabbit. You are constantly chasing after carrots, your life energy, since your hunger is limitless. Randomly, the brilliant orange prize will show up in various locations. You have to jump and navigate platforms, using the ledges to grab the object you want. 
 
 Every "hunt" that you complete raises your score and gets you one step closer to obtaining amazing milestones. The elusive golden carrots are worth three to five conventional carrots, so keep an eye out for them! A full wardrobe of amazing new skins will become available to you as your point total increases. Do you want to be a ninja bunny and jump around? Or a bunny from space? It's up to you!
